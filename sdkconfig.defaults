@@ -1,0 +1,5 @@
+# Default provided by esp-idf-template
+CONFIG_ESP_MAIN_TASK_STACK_SIZE=7000
+
+# Use external ram
+CONFIG_ESP32_SPIRAM_SUPPORT=y
